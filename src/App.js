@@ -1,7 +1,9 @@
+import React from "react";
+
 export default function App() {
-    return (
-        <div className="App">
-            <h2>Wiii Commerce!!!</h2>
-        </div>
-    );
+  return (
+    <div className="App">
+      <h2>Wiii Commerce!!!</h2>
+    </div>
+  );
 }
